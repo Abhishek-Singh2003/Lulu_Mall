@@ -24,4 +24,4 @@ A console-based simulation of **Lulu Mall**, one of India's largest malls. This 
 
 ---
 
-![Lulu Mall Flowchart](flowchart.png)
+![Lulu Mall Flowchart](https://github.com/Abhishek-Singh2003/Lulu_Mall/blob/master/Flow%20Chart.png)
