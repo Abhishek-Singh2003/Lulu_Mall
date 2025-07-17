@@ -280,5 +280,24 @@ public class Store_shopping {
         String name = obj.meth1();
         Store_shopping aobj = new Store_shopping(obj);
         aobj.mainMenu(name);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        System.out.println("Hello");
     }
 }
